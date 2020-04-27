@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>是小一岁呀</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-26T15:17:14.636Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Shen sir</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>是小一岁呀</title>
+    <link href="http://yoursite.com/2020/04/14/%E6%98%AF%E5%B0%8F%E4%B8%80%E5%B2%81%E5%91%80/"/>
+    <id>http://yoursite.com/2020/04/14/%E6%98%AF%E5%B0%8F%E4%B8%80%E5%B2%81%E5%91%80/</id>
+    <published>2020-04-14T07:16:37.000Z</published>
+    <updated>2020-04-26T15:17:14.636Z</updated>
+    
+    <content type="html"><![CDATA[<p>[TOC]</p><h1 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h1><h2 id="这也是一个例子"><a href="#这也是一个例子" class="headerlink" title="这也是一个例子"></a>这也是一个例子</h2><blockquote><p>这是一个<font face="黑体" size=4 color=#0000FF>例子</font>呀</p></blockquote><h3 id="斜体"><a href="#斜体" class="headerlink" title="斜体"></a>斜体</h3><p><em>这是斜体</em></p><h3 id="加粗"><a href="#加粗" class="headerlink" title="加粗"></a>加粗</h3><p><strong>这是加粗</strong></p><h3 id="高亮"><a href="#高亮" class="headerlink" title="高亮"></a>高亮</h3><p>==这是高亮==用两对==框主</p><h3 id="划掉"><a href="#划掉" class="headerlink" title="划掉"></a>划掉</h3><p><del>这是划掉</del></p><h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3><ol><li>有编号的列表</li><li>使用：数字，点，空格，内容</li><li>试试就会，非常简单</li><li>还可以这样哦<ol><li>嵌套也可以</li><li>只需要Tab一下就</li><li>可以开启嵌套的列表啦</li></ol></li></ol><hr><ul><li>无序列表</li><li>更简单</li></ul><ul><li>使用：-，点，空格，内容就好啦</li></ul><ul><li><p>同样也可以嵌套</p><ul><li><p>就是这样的</p></li><li><p>是不是简单到不行呢</p></li></ul></li></ul><p><a href="#例子">跳转1</a></p><h3 id="写公式"><a href="#写公式" class="headerlink" title="写公式"></a>写公式</h3><p>我在行左$Y=Ax+b$ 我在行右</p><p>$$ e^{x}=1+x+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots $$</p><h3 id="写代码"><a href="#写代码" class="headerlink" title="写代码"></a>写代码</h3><p><code>print(&#39;你愁啥&#39;)</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Year = <span class="number">0</span></span><br><span class="line">While Year &lt; <span class="number">10</span>:</span><br><span class="line">print(<span class="string">'Love You'</span>.)</span><br><span class="line">Year += <span class="number">1</span></span><br></pre></td></tr></table></figure><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">#include &lt;stdio.h&gt;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">printf(<span class="string">"知道啦知道啦！\n"</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><a href="#例子">跳转2</a></p><h3 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h3><table><thead><tr><th>表格</th><th></th><th></th></tr></thead><tbody><tr><td>中文</td><td>狗</td><td>猫</td></tr><tr><td>叠词</td><td>狗狗</td><td>猫猫</td></tr><tr><td>English</td><td>dog</td><td>cat</td></tr></tbody></table><h3 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h3><p>Hi,大家好！ <a href="https://www.baidu.com" target="_blank" rel="noopener">baidu</a> 欢迎您！</p><h3 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h3><hr><hr><p><a href="#例子">跳转3</a></p><h3 id="图床"><a href="#图床" class="headerlink" title="图床"></a>图床</h3><p>![千玺] (C:/Users\HP/Pictures/Saved Pictures/5.jpg)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;例子&quot;&gt;&lt;a href=&quot;#例子&quot; class=&quot;headerlink&quot; title=&quot;例子&quot;&gt;&lt;/a&gt;例子&lt;/h1&gt;&lt;h2 id=&quot;这也是一个例子&quot;&gt;&lt;a href=&quot;#这也是一个例子&quot; class=&quot;headerlink&quot; title
+      
+    
+    </summary>
+    
+    
+      <category term="例子" scheme="http://yoursite.com/categories/%E4%BE%8B%E5%AD%90/"/>
+    
+    
+      <category term="爬虫" scheme="http://yoursite.com/tags/%E7%88%AC%E8%99%AB/"/>
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/04/09/hello-world/"/>
+    <id>http://yoursite.com/2020/04/09/hello-world/</id>
+    <published>2020-04-09T08:37:49.500Z</published>
+    <updated>2020-04-09T08:37:49.501Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
